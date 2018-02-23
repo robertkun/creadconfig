@@ -2,9 +2,6 @@
 #define __CONFIG_H__
 
 #include <fstream>
-//#include <map>
-//#include <vector>
-//#include <string>
 #include <string.h>
 #include <stdlib.h>
 
